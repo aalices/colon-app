@@ -1,0 +1,33 @@
+body {
+    background: url('../img/bg.png') no-repeat;
+}
+
+.logo {
+    background: url('../img/logo.png') no-repeat;
+    width: 250px;
+    height: 250px;
+    background-size: cover;
+    margin: 0 auto;
+}
+
+.main-container {
+    margin-top: 50px;
+}
+
+.circular1 {
+    width: 100px;
+    height: 100px;
+    border-radius: 75px;
+    -webkit-border-radius: 75px;
+    -moz-border-radius: 75px;
+    background: url('../img/btl.jpg') no-repeat;
+    background-size: cover;
+}
+
+.nolike {
+    margin-left: 15%;
+}
+
+.nolike, .like {
+    font-size: 2em;
+}
